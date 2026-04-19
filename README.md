@@ -1,2 +1,0 @@
-# CGF-Dashboard
-Public
